@@ -1,0 +1,10 @@
+.初次使用请在/data下创建一个与您用户名同名的文件夹作为您在此机器上工作区，
+  推荐将此工作区路径软链接到您的HOME下以方便访问。
+2./home只有53G的容量，请不要在HOME下存放程序与数据，否则可能影响其他用户的
+  正常运行，同时一旦系统崩溃，您HOME下的数据也将不复存在。
+3.请将过期或无用的数据及时清释放存储空间。
+4.为避免重复下载数据占用空间，请将数据集存放在/data/datasets下，
+  常用软件可以安装在/data/softwares下，其他需要共享的数据放在/data/public下。
+5.资源有限，大家共享，与人方便，自己方便。
+/usr/bin/xauth:  file /home/wtyuan/.Xauthority does not exist
+[wtyuan@localhost ~]$
